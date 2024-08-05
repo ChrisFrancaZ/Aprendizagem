@@ -21,7 +21,9 @@
 
 ## O que eu aprendi no módulo 2?
 
-- Essa vamos deixar para o futuro, não acha? ^^
-
+- Aprendi sobre os metodos de strings
+- Aprendi sobre os metodos de arrays
+- funções
+- Tipos utilitarios
 
 

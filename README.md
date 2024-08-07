@@ -26,4 +26,8 @@
 - funções
 - Tipos utilitarios
 
+## O que eu quero aprender no modulo 3?
+
+No modulo 3 quero aprender bastante sobre APIs, estou bastante interessado nisso.
+
 
